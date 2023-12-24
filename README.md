@@ -1,0 +1,2 @@
+Basically , in this DSA Course with the help of java language we will learn DSA concepts .This is a daily practice to learn and explore new concepts of these languages. In this course first i will practice java concepts in depth to get a better understanding of functions , objects , classes and 
+many more things . In general if you are good at any one programming language with DSA then you are eligible and ready to go for placements. 
